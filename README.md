@@ -9,3 +9,5 @@
 ### no 2FA nor other mitigating security controls, this could have allowed an attacker to compromise 
 ### many accounts without any user interaction, including high-profile ones. 
 ### Facebook fixed both issues and awarded a combined bounty of $5.000.
+
+![](/image.jpg)
