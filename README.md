@@ -11,3 +11,12 @@
 ### Facebook fixed both issues and awarded a combined bounty of $5.000.
 
 ![](/image.jpg)
+
+ 
+
+Download&install
+apt-get install tor
+git clone https://github.com/Cyber-Musharaff/instagram_brute 
+cd instagram_brute
+chmod +x instagram_brute.sh
+sudo ./instagram_brute.sh
