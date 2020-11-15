@@ -15,8 +15,13 @@
  
 
 ###Download&install
+
 ###apt-get install tor
+
 ###git clone https://github.com/Cyber-Musharaff/instagram_brute 
+
 ###cd instagram_brute
+
 ###chmod +x instagram_brute.sh
+
 ###sudo ./instagram_brute.sh
